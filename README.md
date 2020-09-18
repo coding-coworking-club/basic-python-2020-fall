@@ -1,4 +1,4 @@
-# ccClub Python Basic 2020 Fall
+# ccClub Basic Python 2020 Fall
 
 ## 常用連結
 
